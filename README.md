@@ -14,13 +14,11 @@ https://www.linkedin.com/in/gekido
 
 ## 👯 Pixel Wizards ##
 
-I spend most of my coding working on side projects under the 'pixel wizards' tag - you can check out some of the OpenUPM Unity packages that I maintain over there. 
+I spend most of my coding working on side projects under the 'Pixel Wizards' tag - you can check out some of the OpenUPM Unity packages that I maintain over there. 
 
 https://www.github.com/pixelwizards
 
-```
-[![Pixel Wizards's GitHub stats](https://github-readme-stats.vercel.app/api?username=pixelwizards)](https://github.com/anuraghazra/github-readme-stats)
-```
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=gekidoslair)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔭Some projects that I've worked on include ... ##
 
