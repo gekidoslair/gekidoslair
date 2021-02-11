@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/gekidoslair/gekidoslair/master/readme_header.png "Header")](https://some-url.dev/)
+[![Header](https://raw.githubusercontent.com/gekidoslair/gekidoslair/master/img/1500x500.jpg "Header")](https://gamedev.zone/)
 
 #  &#9760; Welcome to Gekido's Lair &#9760;
 
