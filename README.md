@@ -2,7 +2,7 @@
 
 #  &#9760; Welcome to Gekido's Lair &#9760;
 
-I'm an indie game dev and real time animation producer. I've been working for Unity for the past 4 years or so and have had the luck of working on some awesome projects, including the collaboration with Oats Studios (for Adam Episode 2 / 3), Sherman and the Baymax Dreams projects with Disney TVA (which was awarded a technical Emmy in 2018).
+I'm an indie game dev and real time animation producer. I've been working for Unity for the past 7 years or so and have had the luck of working on some awesome projects, including the collaboration with Oats Studios (for Adam Episode 2 / 3), Sherman and the Baymax Dreams projects with Disney TVA (which was awarded a technical Emmy in 2018).
 
 Over my career I've been involved in a number of startups, growing studios from 0-60 and up multiple times, and at Unity I've run production teams and produced dozens of Keynote demos and talks over the years. 
 
