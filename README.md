@@ -46,6 +46,4 @@ https://blogs.unity3d.com/author/mike-wuetherick/
 
 If you want to get in touch, submit a bug report to any of my packages (don't worry there are tons of bugs to report) ;P
 
-
-
-I keed - I rant ... a lot on Twitter - ping me!  [@gekido](https://www.twitter.com/gekido)
+You can find me these days on Mastodon primarily https://mastodon.gamedev.place/@gekido or working on my side project www.dystopiapunk.com 
