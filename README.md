@@ -38,8 +38,7 @@ https://www.youtube.com/c/unity/search?query=mike%20wuetherick
 
 I've written a number of posts on the Unity blog as well about various topics:
 
-https://blogs.unity3d.com/author/mike-wuetherick/
-
+https://blog.unity.com/author/cap-mike-wuetherick
 
 
 # 📫Get in touch #
