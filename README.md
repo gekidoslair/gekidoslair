@@ -12,6 +12,8 @@ My official CV is about as complete as it gets over on LinkedIn:
 
 https://www.linkedin.com/in/gekido
 
+My personal website is https://www.gamedev.zone
+
 ## 👯 Pixel Wizards ##
 
 I spend most of my coding working on side projects under the 'Pixel Wizards' tag - you can check out some of the OpenUPM Unity packages that I maintain over there. 
