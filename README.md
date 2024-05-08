@@ -20,7 +20,7 @@ I spend most of my coding working on side projects under the 'Pixel Wizards' tag
 
 https://www.github.com/pixelwizards
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=gekidoslair)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=gekidoslair&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔭Some projects that I've worked on include ... ##
 
