@@ -38,13 +38,11 @@ https://www.youtube.com/c/unity/search?query=mike%20wuetherick
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [![Siggraph 2018 - VFX Workflow for Realtime Production](http://img.youtube.com/vi/xKWQBSnhExM/0.jpg)](http://www.youtube.com/watch?v=xKWQBSnhExM "Siggraph 2018 - VFX Workflow for Real-Time Production with Photogrammetry, Alembic, and Unity") | [![Unite Austin 2017 - Behind the Scenes with Oats Studio's Adam: The Mirror](http://img.youtube.com/vi/lvwncFjYGiY/0.jpg)](http://www.youtube.com/watch?v=lvwncFjYGiY "Unite Austin 2017 - Behind the Scenes with Oats Studio's Adam: The Mirror") | [![Real-time CG animation: Unpacking the Sherman project - Unite Copenhagen](http://img.youtube.com/vi/fFfWxErJMkY/0.jpg)](http://www.youtube.com/watch?v=fFfWxErJMkY "Real-time CG animation: Unpacking the Sherman project - Unite Copenhagen") | [![Unite 2016 - Cinematics and Storytelling in Unity](http://img.youtube.com/vi/5KSaHcsSVa4/0.jpg)](http://www.youtube.com/watch?v=5KSaHcsSVa4 "Unite 2016 - Cinematics and Storytelling in Unity") |
 
-I've written a number of posts on the Unity blog as well about various topics:
-
-https://blog.unity.com/author/cap-mike-wuetherick
+I've written a number of posts on the Unity blog as well about various topics, but Unity fubar'd their blog so they're all lost to the ether.
 
 
 # 📫Get in touch #
 
 If you want to get in touch, submit a bug report to any of my packages (don't worry there are tons of bugs to report) ;P
 
-You can find me these days on Mastodon primarily https://mastodon.gamedev.place/@gekido or working on my side project www.dystopiapunk.com 
+You can find me these days on Mastodon primarily https://mastodon.gamedev.place/@gekido or bluesky https://gekido.bsky.social or working on my side project www.dystopiapunk.com 
