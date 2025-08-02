@@ -2,7 +2,7 @@
 
 #  &#9760; Welcome to Gekido's Lair &#9760;
 
-I'm an indie game dev and real time animation producer. I am founder & CTO at Megacrush (https://www.megacru.sh) where I'm leading the studio in our development & tech efforts. Previously, I worked at Unity for 7 years and had the luck of working on some awesome projects, including the collaboration with Oats Studios (for Adam Episode 2 / 3), Sherman and the Baymax Dreams projects with Disney TVA (which was awarded a technical Emmy in 2018).
+I'm an indie game dev and real time animation producer. My day job currently is as Technical Director at Cloudhead Games, leading a 20+ person engineering team working on next gen VR titles. I'm also the founder & CTO at Megacrush (https://www.megacru.sh) where I'm leading the studio in our development & tech efforts. Previously, I worked at Unity for 7 years and had the luck of working on some awesome projects, including the collaboration with Oats Studios (for Adam Episode 2 / 3), Sherman and the Baymax Dreams projects with Disney TVA (which was awarded a technical Emmy in 2018).
 
 Over my career I've been involved in a number of startups, growing studios from 0-100+ and up numerous times, and at Unity I've run production teams and produced dozens of Keynote demos and talks over the years. 
 
